@@ -1,1 +1,1 @@
-drop table {{ table_name }} (id int);
+drop table {{ table_name }};
