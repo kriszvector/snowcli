@@ -1,1 +1,1 @@
-create or alter table {{ table_name }} (id int, name varchar);
+create or alter table {{ table_name }} (name varchar);
