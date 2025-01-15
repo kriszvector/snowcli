@@ -1,1 +1,0 @@
-create table test_table2 (id int);
